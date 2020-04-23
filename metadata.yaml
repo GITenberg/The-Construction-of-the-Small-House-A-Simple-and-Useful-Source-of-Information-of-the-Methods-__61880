@@ -1,0 +1,39 @@
+_repo: The-Construction-of-the-Small-House-A-Simple-and-Useful-Source-of-Information-of-the-Methods-__61880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walsh, H. Vandervoort (Harold Vandervoort)
+    alias: Walsh, Harold Vandervoort
+    birthdate: 1892
+    gutenberg_agent_id: '51658'
+    url: http://www.gutenberg.org/2009/agents/51658
+description: Illustrated by the author.
+gutenberg_issued: '2020-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61880'
+  lccn: '23005913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Building'
+- !lcsh 'Dwellings'
+- !lcc 'TH'
+- GITenberg
+tableOfContents: Present-day economic troubles -- General types and costs -- Essential
+  standards of quality in building materials -- Types of wooden-frame construction
+  -- Construction of the masonry and wood dwelling -- Safeguards against fire in dwellings
+  -- Poor methods of construction employed by unscrupulous builders -- Essential features
+  of good plumbing -- Methods of heating -- Lighting and electric work -- Construction
+  of the trim -- Lessons taught by depreciation -- Selecting materials from advertisements
+  -- Roofing materials -- Painting and varnishing the house -- Labor-saving devices
+  for the home -- Concrete work around the house -- Classification and construction
+  of the architectural motifs used in small-house designing -- Traditions of building
+  from which our modern methods are derived -- Traditions of the construction of doors
+  and windows -- Building the setting for the house -- Financing the construction
+  work.
+title: "The Construction of the Small House\r\nA Simple and Useful Source of Information\
+  \ of the Methods of Building Small American Homes, for Anyone Planning to Build"
+url: http://www.gutenberg.org/ebooks/61880
